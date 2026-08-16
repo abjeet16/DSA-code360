@@ -10,3 +10,10 @@ public class Solution {
         return copy==0?N:N+add;
     }
 }
+/*
+public class Solution {
+    public static int setBits(int N){
+        return n | (n + 1);
+    }
+}
+*/
