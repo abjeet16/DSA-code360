@@ -1,3 +1,4 @@
+//https://www.naukri.com/code360/problems/ayush-gives-ninjatest_1097574?interviewProblemRedirection=true&difficulty%5B%5D=Medium&leftPanelTabValue=PROBLEM
 import java.util.* ;
 import java.io.*; 
 public class Solution {
